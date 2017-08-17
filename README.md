@@ -19,8 +19,14 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 3: 16 Août 2017
 
-**Progrès d'aujourd'hui**:
+**Progrès d'aujourd'hui**: Début du projet Score Keeper commencé
 
-**Réflexion**:
+**Réflexion**: Je n'ai pas eu beaucoup de temps, mais j'ai quand même pu avancer.
+
+### Jour 4: 17 Août 2017
+
+**Progrès d'aujourd'hui**: 
+
+**Réflexion**: 
 
 **Lien(s)**: 
