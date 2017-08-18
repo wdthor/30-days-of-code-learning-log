@@ -19,11 +19,17 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 3: 16 Août 2017
 
-**Progrès d'aujourd'hui**: Début du projet Score Keeper commencé
+**Progrès d'aujourd'hui**: Début du mini projet Score Keeper commencé
 
 **Réflexion**: Je n'ai pas eu beaucoup de temps, mais j'ai quand même pu avancer.
 
 ### Jour 4: 17 Août 2017
+
+**Progrès d'aujourd'hui**: Mini projet Score Keeper terminé, Section JavaScript DOM terminé, projet Color Game commencé
+
+**Réflexion**: Je commence enfin à travailler sur un projet. Pas de souci pour le moment.
+
+### Jour 5: 18 Août 2017
 
 **Progrès d'aujourd'hui**: 
 
