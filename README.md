@@ -31,6 +31,12 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 5: 18 Août 2017
 
+**Progrès d'aujourd'hui**: Continue projet Color Game 
+
+**Réflexion**: J'ai bientôt terminé ce projet.
+
+### Jour 6: 19 Août 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
