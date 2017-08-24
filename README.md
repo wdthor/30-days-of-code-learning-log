@@ -35,10 +35,29 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 **Réflexion**: J'ai bientôt terminé ce projet.
 
-### Jour 6: 19 Août 2017
+### Challenge échoué après 3 jours sans coder. Je ne laisse pas tombé et recommence le challenge.
 
-**Progrès d'aujourd'hui**: 
+#### Date de début:
+  22 Août 2017
+  
+### Jour 1: 22 Août 2017
 
-**Réflexion**: 
+**Progrès d'aujourd'hui**: Projet Color Game commencé
+
+**Réflexion**: J'ai perdu le fil du code, donc j'ai recommencé du début
+
+### Jour 2: 23 Août 2017
+
+**Progrès d'aujourd'hui**: Projet Color Game terminé
+
+**Réflexion**: J'ai terminé le projet Color Game et la section JavaScript.
+
+**Lien(s)**: https://codepen.io/webdevthierry/full/GjJKaO/
+
+### Jour 3: 24 Août 2017
+
+**Progrès d'aujourd'hui**:
+
+**Réflexion**:
 
 **Lien(s)**: 
