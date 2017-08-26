@@ -70,6 +70,12 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 5: 26 Août 2017
 
+**Progrès d'aujourd'hui**: 8 vidéos regardées sur jQuery
+
+**Réflexion**: J'ai pas mal avancé, mais c'est la fatigue qui prend le dessus
+
+### Jour 6: 27 Août 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
