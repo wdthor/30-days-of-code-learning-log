@@ -56,8 +56,22 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 3: 24 Août 2017
 
-**Progrès d'aujourd'hui**:
+**Progrès d'aujourd'hui**: 2 vidéos regardées sur jQuery
 
-**Réflexion**:
+**Réflexion**: Je commence la section jQuery
+
+### Jour 4: 25 Août 2017
+
+**Progrès d'aujourd'hui**: 3 vidéos regardées sur jQuery, 1 algorithme résolu
+
+**Réflexion**: Je continue la section jQuery et j'ai le cerveau qui brule avec l'algorithme de conversion en chiffre roman
+
+**Lien(s)**: https://www.freecodecamp.org/challenges/roman-numeral-converter
+
+### Jour 5: 26 Août 2017
+
+**Progrès d'aujourd'hui**: 
+
+**Réflexion**: 
 
 **Lien(s)**: 
