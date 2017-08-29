@@ -76,6 +76,20 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 6: 27 Août 2017
 
+**Progrès d'aujourd'hui**: Section jQuery terminé, projet Todo list commencé
+
+**Réflexion**: J'ai bientôt terminé ce projet.
+
+### Jour 7: 28 Août 2017
+
+**Progrès d'aujourd'hui**: Projet Todo List terminé, fichier readme ajouté 
+
+**Réflexion**: J'ai terminé la partie Front du tutoriel "The Web Developer Bootcamp". Je pense que je vais m'attaquer aux projets intermédiaire de FCC.
+
+**Lien(s)**: [Todo List Project](https://codepen.io/webdevthierry/full/EgKBOq/)
+
+### Jour 8: 29 Août 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
