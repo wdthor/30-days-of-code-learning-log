@@ -90,7 +90,13 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 8: 29 Août 2017
 
-**Progrès d'aujourd'hui**: 
+**Progrès d'aujourd'hui**: Random Quote Machine Project commencé
+
+**Réflexion**: Je n'arrive pas à générer un quote sans erreur.
+
+### Jour 9: 30 Août 2017
+
+**Progrès d'aujourd'hui**:
 
 **Réflexion**: 
 
