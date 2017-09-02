@@ -90,14 +90,40 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 8: 29 Août 2017
 
-**Progrès d'aujourd'hui**: Random Quote Machine Project commencé
+**Progrès d'aujourd'hui**: Projet Random Quote Machine commencé
 
-**Réflexion**: Je n'arrive pas à générer un quote sans erreur.
+**Réflexion**: Je n'arrive pas à générer une citation sans erreur.
+
+**Lien(s)**: [Random Quote Machine](https://codepen.io/webdevthierry/pen/prQLoK)
 
 ### Jour 9: 30 Août 2017
 
+**Progrès d'aujourd'hui**: Génération de citations
+
+**Réflexion**: J'ai réussi à générer des citations après avoir compris que ça marchait pas en local.
+
+**Lien(s)**: [Random Quote Machine](https://codepen.io/webdevthierry/pen/prQLoK)
+
+### Jour 10: 31 Août 2017
+
+**Progrès d'aujourd'hui**: Ajout boutton tweet
+
+**Réflexion**: Je n'arrive pas à mettre à jour les données partagés avec le tweet
+
+**Lien(s)**: [Random Quote Machine](https://codepen.io/webdevthierry/pen/prQLoK)
+
+### Jour 11: 1 Septembre 2017
+
+**Progrès d'aujourd'hui**: Projet Random Quote Machine terminé, projet Local Weather commencé
+
+**Réflexion**: J'ai terminé le projet Random Quote Machine. C'est pas parfait, mais c'est fonctionnel.
+
+**Lien(s)**: [Random Quote Machine](https://codepen.io/webdevthierry/pen/prQLoK)
+
+### Jour 12: 2 Septembre 2017
+
 **Progrès d'aujourd'hui**:
 
-**Réflexion**: 
+**Réflexion**:
 
-**Lien(s)**: 
+**Lien(s)**:
