@@ -122,8 +122,16 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 12: 2 Septembre 2017
 
-**Progrès d'aujourd'hui**:
+**Progrès d'aujourd'hui**: Ajout weather API, géolocalisation, données météo
 
-**Réflexion**:
+**Réflexion**: J'ai terminé la partie fonctionnalité du projet, il me reste plus que le design. Je trouve ce projet beaucoup plus simple à réaliser que le dernier.
+
+**Lien(s)**: [Local Weather](https://codepen.io/webdevthierry/pen/KvJrGR)
+
+### Jour 13: 3 Septembre 2017
+
+**Progrès d'aujourd'hui**: 
+
+**Réflexion**: 
 
 **Lien(s)**:
