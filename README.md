@@ -130,8 +130,36 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 13: 3 Septembre 2017
 
+**Progrès d'aujourd'hui**: Aucun
+
+**Réflexion**: Je n'ai pas pu coder aujourd'hui, le sommeil a pris le dessus.
+
+### Jour 14: 4 Septembre 2017
+
+**Progrès d'aujourd'hui**: Projet Local Weather terminé
+
+**Réflexion**: Ce projet a été façile à réaliser.
+
+**Lien(s)**: [Local Weather](https://codepen.io/webdevthierry/pen/KvJrGR)
+
+### Jour 15: 5 Septembre 2017
+
+**Progrès d'aujourd'hui**: Projet Wikipedia Viewer commencé
+
+**Réflexion**: Je me retrouve encore coincé à cause de l'erreur CORS.
+
+**Lien(s)**: [Wikipedia Viewer](https://codepen.io/webdevthierry/pen/MvRzge)
+
+### Jour 16: 6 Septembre 2017
+
+**Progrès d'aujourd'hui**: Révision Html5
+
+**Réflexion**: Je fais une petite pause du projet, et suis obligé de refaire les tutos Html5, Css3,... dans le cadre d'un autre projet.
+
+### Jour 17: 7 Septembre 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
 
-**Lien(s)**:
+**Lien(s)**: 
