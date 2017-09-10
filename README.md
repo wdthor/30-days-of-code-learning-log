@@ -158,6 +158,26 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 17: 7 Septembre 2017
 
+**Progrès d'aujourd'hui**: Révision Html5, Css3, cours ReactJS commencé
+
+**Réflexion**: J'ai terminé le tuto Html5, j'ai recommencé le tuto Css3, et je commence le tuto sur ReactJS pour ne pas faire que des révisions.
+
+### Jour 18: 8 Septembre 2017
+
+**Progrès d'aujourd'hui**: Continue tuto Css3 et ReactJS
+
+**Réflexion**: Après quelques cours sur ReactJS, on peut dire que je n'aime pas trop ce langage comparé à Angular.
+
+### Jour 19: 9 Septembre 2017
+
+**Progrès d'aujourd'hui**: 
+
+**Réflexion**: 
+
+**Lien(s)**: 
+
+### Jour 20: 10 Septembre 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
