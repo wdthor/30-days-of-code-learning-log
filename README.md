@@ -170,13 +170,32 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 19: 9 Septembre 2017
 
+**Progrès d'aujourd'hui**: Tutoriel Css3 terminé et ReactJS
+
+**Réflexion**: Après avoir terminé le tuto sur Css3, je refais le dernier tuto sur JavaScript.
+
+### Jour 20: 10 Septembre 2017
+
+**Progrès d'aujourd'hui**: Aucun
+
+**Réflexion**: Je n'ai pas pu coder aujourd'hui, le sommeil a pris le dessus.
+
+### Jour 21: 11 Septembre 2017
+
+**Progrès d'aujourd'hui**: Continue tuto JavaScript et ReactJS
+
+**Réflexion**: J'ai du mal à intégrer les concepts de ReactJS.
+
+
+### Jour 22: 12 Septembre 2017
+
 **Progrès d'aujourd'hui**: 
 
 **Réflexion**: 
 
 **Lien(s)**: 
 
-### Jour 20: 10 Septembre 2017
+### Jour 23: 13 Septembre 2017
 
 **Progrès d'aujourd'hui**: 
 
