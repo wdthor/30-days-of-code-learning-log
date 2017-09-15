@@ -182,20 +182,35 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 21: 11 Septembre 2017
 
-**Progrès d'aujourd'hui**: Continue tuto JavaScript et ReactJS
+**Progrès d'aujourd'hui**: Commence tuto JavaScript et continue ReactJS
 
 **Réflexion**: J'ai du mal à intégrer les concepts de ReactJS.
 
-
 ### Jour 22: 12 Septembre 2017
 
-**Progrès d'aujourd'hui**: 
+**Progrès d'aujourd'hui**: Continue tuto JavaScript et continue ReactJS
 
-**Réflexion**: 
-
-**Lien(s)**: 
+**Réflexion**: J'ai toujours du mal à intégrer les concepts de ReactJS.
 
 ### Jour 23: 13 Septembre 2017
+
+**Progrès d'aujourd'hui**: Aucun
+
+**Réflexion**: Je n'ai pas pu coder aujourd'hui, le sommeil a pris le dessus.
+
+### Jour 24: 14 Septembre 2017
+
+**Progrès d'aujourd'hui**: Continue tuto JavaScript
+
+**Réflexion**: J'ai arrêté le tuto sur ReactJS car j'ai perdu le fil, et je me focalise sur la révision de JavaScript car c'est ma priorité en ce moment.
+
+### Jour 25: 15 Septembre 2017
+
+**Progrès d'aujourd'hui**: Continue tuto JavaScript
+
+**Réflexion**: J'ai remarqué que le tuto de codecademy a été mise à jour et est basé sur ES6 donc même si c'est principalement des révisions, j'apprends de nouveaux concepts.
+
+### Jour 26: 16 Septembre 2017
 
 **Progrès d'aujourd'hui**: 
 
