@@ -212,7 +212,43 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 ### Jour 26: 16 Septembre 2017
 
-**Progrès d'aujourd'hui**: 
+**Progrès d'aujourd'hui**: Tuto JS: Functions, Scope
+
+**Réflexion**: Aucune réflexion, juste des révisions
+
+### Jour 27: 17 Septembre 2017
+
+**Progrès d'aujourd'hui**: Tuto JS: Arrays, Loop
+
+**Réflexion**: Aucune réflexion, juste des révisions
+
+### Jour 28: 18 Septembre 2017
+
+**Progrès d'aujourd'hui**: tuto JS: Iterators, Objects
+
+**Réflexion**: Le tuto est plus long à terminé que je le pensais
+
+### Jour 29: 19 Septembre 2017
+
+**Progrès d'aujourd'hui**: Tuto JS: Classes, Browser Compatibility and Transpilation
+
+**Réflexion**: Dommage de devoir utilisé Babel ou TypeScript pour rendre ES6 compatible
+
+### Jour 30: 20 Septembre 2017
+
+**Progrès d'aujourd'hui**: Tuto JS: Modules
+
+**Réflexion**: Aucune réflexion, juste des révisions
+
+### Jour 31: 21 Septembre 2017 (rattrapage)
+
+**Progrès d'aujourd'hui**: Tuto JS: Requests
+
+**Réflexion**: Fin du challenge, j'ai 3 jours a rattraper
+
+### Jour 32: 22 Septembre 2017 (rattrapage)
+
+**Progrès d'aujourd'hui**: Tuto JS: Requests
 
 **Réflexion**: 
 
