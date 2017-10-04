@@ -1,5 +1,6 @@
 # 30-days-of-code-learning - Journal
-The log of my 30 Days Of Code Learning (to keep separate from the main repo and let people fork a clean version)
+The log of my 30 Days Of Code Learning (to keep separate from the main repo and let people fork a clean version).  
+Mon journal du 30 Days Of Code Learning (séparé du répo principal et laisser les personne faire un fork de la version originale).
 
 #### Date de début:
   14 Août 2017
@@ -250,6 +251,19 @@ The log of my 30 Days Of Code Learning (to keep separate from the main repo and 
 
 **Progrès d'aujourd'hui**: Tuto JS: Requests
 
-**Réflexion**: 
+**Réflexion**: Plus de théories pour cette section que les autres
 
-**Lien(s)**: 
+### Jour 33: 23 Septembre 2017 (rattrapage) (dernier jour)
+
+**Progrès d'aujourd'hui**: Tuto JS terminé
+
+**Réflexion**: J'ai enfin terminé la section Request I & II ainsi que le tutoriel sur JavaScript
+
+## Conclusion
+Mon challenge est terminé. Voici un récapitulatif de ce que j'ai pu faire:  
+* Tuto Html, Css, Bootstrap, JavaScript, jQuery (FCC, The Complete Web Developer Bootcamp from Udemy, Codecademy)
+* Mini projet Score Keeper
+* [Projet Color Game](https://codepen.io/webdevthierry/full/GjJKaO/)
+* [Projet Todo List](https://codepen.io/webdevthierry/full/EgKBOq/)
+* [Projet Random Quote Machine](https://codepen.io/webdevthierry/pen/prQLoK)
+* [Projet Local Weather](https://codepen.io/webdevthierry/pen/KvJrGR)
