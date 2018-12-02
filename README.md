@@ -32,9 +32,10 @@ Mon log du 24 Days Of Code Learning (pour le garder séparé du répo principal 
 
 **Réflexion**: Je découvre le monde de Youtube et du live, ça me fais bizarre
 
-### Jour 2: 3 Décembre 2018
 
-**Progrès d'aujourd'hui**: 
+### Jour 3: 3 Décembre 2018
+
+**Progrès d'aujourd'hui**:
 
 **Réflexion**: 
 
