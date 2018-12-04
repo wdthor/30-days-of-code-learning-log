@@ -36,6 +36,14 @@ Mon log du 24 Days Of Code Learning (pour le garder séparé du répo principal 
 ### Jour 3: 3 Décembre 2018
 
 **Progrès d'aujourd'hui**:
+- Diffusion d'un live coding sur Youtube
+- Révision de SQL sur Codecademy
+
+**Réflexion**: Je n'ai pas fait grand chose aujourd'hui, mais j'avance quand même
+
+### Jour 4: 4 Décembre 2018
+
+**Progrès d'aujourd'hui**:
 
 **Réflexion**: 
 
