@@ -44,6 +44,13 @@ Mon log du 24 Days Of Code Learning (pour le garder séparé du répo principal 
 ### Jour 4: 4 Décembre 2018
 
 **Progrès d'aujourd'hui**:
+- Révision de SQL avec l'application DataCamp
+
+**Réflexion**: Très occupé aujourd'hui, je n'ai pas beaucoup codé
+
+### Jour 5: 5 Décembre 2018
+
+**Progrès d'aujourd'hui**:
 
 **Réflexion**: 
 
