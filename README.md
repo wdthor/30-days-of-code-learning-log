@@ -54,10 +54,4 @@ Mon log du 24 Days Of Code Learning (pour le garder séparé du répo principal 
 
 **Réflexion**: 
 
-### Jour 5: 5 Décembre 2018
-
-**Progrès d'aujourd'hui**:
-
-**Réflexion**: 
-
 **Lien(s)**:
