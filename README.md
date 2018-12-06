@@ -50,8 +50,17 @@ Mon log du 24 Days Of Code Learning (pour le garder séparé du répo principal 
 
 ### Jour 5: 5 Décembre 2018
 
-**Progrès d'aujourd'hui**:
+**Progrès d'aujourd'hui**: aucun
 
-**Réflexion**: 
+**Réflexion**: En voyage
 
-**Lien(s)**:
+### Jour 6: 6 Décembre 2018
+
+**Progrès d'aujourd'hui**: 
+- Codé un mini projet à partir d'un article medium
+
+**Réflexion**: Toujours en voyage
+
+**Lien(s)**:  
+[L'article du mini projet](https://medium.freecodecamp.org/horizontal-scrolling-using-flexbox-f9d16817f742)  
+[Mise en pratique](https://codepen.io/webdevthierry/pen/OaKzLL)
